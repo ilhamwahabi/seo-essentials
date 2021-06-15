@@ -3,9 +3,9 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://images.unsplash.com/photo-1524334228333-0f6db392f8a1
 # apply any windi css classes to the current slide
-class: 'text-center'
+class: "text-center"
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # some information about the slides, markdown enabled
@@ -16,17 +16,12 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 ---
 
-# Welcome to Slidev
+# SEO Essentials
 
-Presentation slides for developers
+What we should know and how to improve them as a developer
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+<a
+  href="https://github.com/iwgx/seo-essentials" target="_blank" alt="GitHub"
   class="abs-br m-6 text-xl icon-btn opacity-50 !border-none !hover:text-white">
   <carbon-logo-github />
 </a>
