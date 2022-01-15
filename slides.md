@@ -63,6 +63,12 @@ layout: section
 layout: section
 ---
 
+<h1 style="color: white">Tag</h1>
+
+---
+layout: section
+---
+
 <h1 style="color: white">Meta Tag</h1>
 
 ---
@@ -81,13 +87,13 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Sitemap</h1>
+<h1 style="color: white">Sitemap.xml</h1>
 
 ---
 layout: section
 ---
 
-<h1 style="color: white">Robots</h1>
+<h1 style="color: white">Robots.txt</h1>
 
 ---
 layout: section
