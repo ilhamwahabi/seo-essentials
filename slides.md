@@ -51,6 +51,60 @@ layout: quote
 layout: section
 ---
 
+<h1 style="color: white">But, Is SEO Important?</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Then, What Should We Know?</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Meta Tag</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Open Graph</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Twitter</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Sitemap</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Robots</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Structured Data</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Tools to Help Us</h1>
+
+---
+layout: section
+---
+
 <h1 style="color: white">That's All!</h1>
 
 ### Hit me up for discussion
