@@ -46,3 +46,11 @@ layout: quote
 ---
 
 <h1 style="color: white; font-size: 40px; line-height: 4rem;"> It's a set of guidelines that are supposed to make our site appear higher than others on search engine results. </h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">That's All!</h1>
+
+### Hit me up for discussion
