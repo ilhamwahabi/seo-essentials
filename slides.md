@@ -10,7 +10,7 @@ favicon: /images/favicon.png
 
 # SEO Essentials
 
-Let's find out how to boost your content exposure
+Let's find out how to boost your site exposure
 
 ---
 
