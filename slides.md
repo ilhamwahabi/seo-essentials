@@ -57,19 +57,55 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Then, What Should We Know?</h1>
+<h1 style="color: white">More exposure</h1>
+<h1 style="color: white">More traffic</h1>
+<h1 style="color: white">More profit</h1>
+<h1 style="color: white">...</h1>
 
 ---
 layout: section
 ---
 
-<h1 style="color: white">Tag</h1>
+<h1 style="color: white">Then, What We Gonna Discuss?</h1>
+
+<br>
+<br>
+
+<h2 style="color: white">Information Tag</h2>
+<br>
+<h2 style="color: white">Sitemap</h2>
+<br>
+<h2 style="color: white">Structured Data</h2>
+<br>
+<h2 style="color: white">Tools to Help Us</h2>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Information Tag</h1>
 
 ---
 layout: section
 ---
 
 <h1 style="color: white">Meta Tag</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">They are divided by:</h1>
+
+<br>
+<br>
+
+<h2 style="color: white">1. Open Graph (for Google, Facebook, LinkedIn, etc)</h2>
+
+<br>
+<br>
+
+<h2 style="color: white">2. Twitter (for Twitter)</h2>
 
 ---
 layout: section
@@ -87,13 +123,7 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Sitemap.xml</h1>
-
----
-layout: section
----
-
-<h1 style="color: white">Robots.txt</h1>
+<h1 style="color: white">Sitemap</h1>
 
 ---
 layout: section
@@ -106,6 +136,34 @@ layout: section
 ---
 
 <h1 style="color: white">Tools to Help Us</h1>
+
+---
+layout: center
+---
+
+<h1 style="color: white; font-size: 64px">You Can Learn More About</h1>
+
+<br>
+<br>
+<br>
+
+<div class="text-center">
+
+<h2 style="color: white">Robots.txt</h2>
+<br>
+
+<h2 style="color: white">Google Search Console</h2>
+<br>
+
+<h2 style="color: white">Semantic Web</h2>
+<br>
+
+<h2 style="color: white">Make our web fast</h2>
+<br>
+
+<h2 style="color: white">Make our web mobile friendly</h2>
+
+</div>
 
 ---
 layout: section
