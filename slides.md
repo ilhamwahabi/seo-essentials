@@ -89,7 +89,7 @@ layout: section
 <br>
 <br>
 
-<h2 style="color: white">Information Tag</h2>
+<h2 style="color: white">Meta Tag</h2>
 <br>
 <h2 style="color: white">Sitemap</h2>
 <br>
@@ -101,31 +101,8 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Information Tag</h1>
-
----
-
-<h1 style="color: white">Information Tag</h1>
-
-```html
-<head>
-  <title>Over Hangman</title>
-  <meta name="application-name" content="Over Hangman" />
-  <meta name="description" content="Tech related question hangman game" />
-  <meta name="apple-mobile-web-app-title" content="Over Hangman" />
-  <meta name="keywords" content="game,over,hangman,ilham,wahabi,iwgx,tech,question,english" />
-  <link rel="canonical" href="https://over-hangman.iwgx.io" />
-</head>
-```
-
----
-layout: section
----
-
 <h1 style="color: white">Meta Tag</h1>
 
----
-layout: image-right
 ---
 
 <h1 style="color: white">Meta Tag</h1>
@@ -136,7 +113,11 @@ layout: image-right
 
 ```html
 <head>
-  <meta ... />
+  <title>Over Hangman</title>
+  <meta name="application-name" content="Over Hangman" />
+  <meta name="apple-mobile-web-app-title" content="Over Hangman" />
+  <meta name="description" content="Tech related question hangman game" />
+  <meta name="keywords" content="game,over,hangman,ilham,wahabi,iwgx,tech,question,english" />
 </head>
 ```
 
@@ -247,8 +228,6 @@ layout: section
 </video>
 
 ---
-
----
 layout: section
 ---
 
@@ -270,28 +249,43 @@ layout: section
 layout: center
 ---
 
-<h1 style="color: white; font-size: 64px">You Can Learn More About</h1>
+<h1 style="color: white; font-size: 64px">Where to Go From Here?</h1>
 
 <br>
 <br>
 <br>
 
+<div grid="~ cols-2 gap-4">
 <div class="text-center">
+  <h2 style="color: white">Mobile Friendly</h2>
+  <br>
 
-<h2 style="color: white">Robots.txt</h2>
-<br>
+  <h2 style="color: white">Make Web Fast</h2>
+  <br>
 
-<h2 style="color: white">Google Search Console</h2>
-<br>
+  <h2 style="color: white">Accessibility</h2>
+  <br>
 
-<h2 style="color: white">Semantic Web</h2>
-<br>
+  <h2 style="color: white">Robots.txt</h2>
+  <br>
 
-<h2 style="color: white">Make our web fast</h2>
-<br>
+  <h2 style="color: white">Google Search Console</h2>
+</div>
+<div class="text-center">
+  <h2 style="color: white">Canonical</h2>
+  <br>
 
-<h2 style="color: white">Make our web mobile friendly</h2>
+  <h2 style="color: white">Pinterest Pins</h2>
+  <br>
 
+  <h2 style="color: white">Semantic Web</h2>
+  <br>
+
+  <h2 style="color: white">AMP</h2>
+  <br>
+
+  <h2 style="color: white">Linking</h2>
+</div>
 </div>
 
 ---
