@@ -78,6 +78,12 @@ layout: section
 layout: section
 ---
 
+<h1 style="color: white">This presentation is for <br> <strike>marketing</strike> developer</h1>
+
+---
+layout: section
+---
+
 <h1 style="color: white">Then, What We Gonna Discuss?</h1>
 
 <br>
@@ -98,10 +104,41 @@ layout: section
 <h1 style="color: white">Information Tag</h1>
 
 ---
+
+<h1 style="color: white">Information Tag</h1>
+
+```html
+<head>
+  <title>Over Hangman</title>
+  <meta name="application-name" content="Over Hangman" />
+  <meta name="description" content="Tech related question hangman game" />
+  <meta name="apple-mobile-web-app-title" content="Over Hangman" />
+  <meta name="keywords" content="game,over,hangman,ilham,wahabi,iwgx,tech,question,english" />
+  <link rel="canonical" href="https://over-hangman.iwgx.io" />
+</head>
+```
+
+---
 layout: section
 ---
 
 <h1 style="color: white">Meta Tag</h1>
+
+---
+layout: image-right
+---
+
+<h1 style="color: white">Meta Tag</h1>
+
+- Tell search engine about our website
+
+- Make our content stands out
+
+```html
+<head>
+  <meta ... />
+</head>
+```
 
 ---
 layout: section
@@ -112,7 +149,7 @@ layout: section
 <br>
 <br>
 
-<h2 style="color: white">1. Open Graph (for Google, Facebook, LinkedIn, etc)</h2>
+<h2 style="color: white">1. Open Graph</h2>
 
 <br>
 <br>
@@ -126,10 +163,90 @@ layout: section
 <h1 style="color: white">Open Graph</h1>
 
 ---
+
+<h1 style="color: white">Open Graph</h1>
+
+- For Google, Facebook, LinkedIn, Slack, Discord, etc
+
+<br>
+
+```html
+<head>
+  <meta property="og:title" content="Over Hangman" />
+  <meta property="og:description" content="Tech related question hangman game" />
+  <meta property="og:url" content="https://over-hangman.iwgx.io" />
+  <meta property="og:image" content="https://i.ibb.co/5LYPM4Z/overhangman-card.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="iwgx" />
+</head>
+```
+
+---
+layout: section
+---
+
+<h2 style="color: white">
+  <a href="https://www.linkedin.com/post-inspector" target="_blank">Facebook Sharing Debugger</a>
+</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/facebook-sharing-debugger.mp4" type="video/mp4">
+</video>
+
+---
+layout: section
+---
+
+<h2 style="color: white">
+  <a href="https://www.linkedin.com/post-inspector" target="_blank">LinkedIn Post Inspector</a>
+</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/linkedin-post-inspector.mp4" type="video/mp4">
+</video>
+
+---
 layout: section
 ---
 
 <h1 style="color: white">Twitter</h1>
+
+---
+
+<h1 style="color: white">Twitter</h1>
+
+- For Twitter
+
+<br>
+
+```html
+<head>
+  <meta name="twitter:title" content="Over Hangman" />
+  <meta name="twitter:description" content="Tech related question hangman game" />
+  <meta name="twitter:url" content="https://over-hangman.iwgx.io" />
+  <meta name="twitter:image" content="https://i.ibb.co/5LYPM4Z/overhangman-card.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@ilhamwahabigx" />
+</head>
+```
+
+---
+layout: section
+---
+
+<h2 style="color: white"><a href="https://cards-dev.twitter.com/validator">Twitter Card Validator</a></h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/twitter-card-validator.mp4" type="video/mp4">
+</video>
+
+---
 
 ---
 layout: section
