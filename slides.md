@@ -95,7 +95,7 @@ layout: section
 <br>
 <h2 style="color: white">Structured Data</h2>
 <br>
-<h2 style="color: white">Tools to Help Us</h2>
+<h2 style="color: white">Audit our Site</h2>
 
 ---
 layout: section
@@ -243,7 +243,21 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Tools to Help Us</h1>
+<h1 style="color: white">Audit</h1>
+
+---
+layout: section
+---
+
+<h2 style="color: white">
+  <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=id">Lighthouse</a>
+</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/lighthouse.mp4" type="video/mp4">
+</video>
 
 ---
 layout: center
