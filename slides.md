@@ -57,6 +57,18 @@ layout: section
 layout: section
 ---
 
+<h1 style="color: white">About 93% web traffic comes from search engine</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">74% customer using search engine to looking for new product / service</h1>
+
+---
+layout: section
+---
+
 <h1 style="color: white">More exposure</h1>
 <h1 style="color: white">More traffic</h1>
 <h1 style="color: white">More profit</h1>
