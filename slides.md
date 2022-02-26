@@ -91,9 +91,11 @@ layout: section
 
 <h2 style="color: white">Meta Tag</h2>
 <br>
+<h2 style="color: white">Structured Data</h2>
+<br>
 <h2 style="color: white">Sitemap</h2>
 <br>
-<h2 style="color: white">Structured Data</h2>
+<h2 style="color: white">Robots</h2>
 <br>
 <h2 style="color: white">Audit our Site</h2>
 
@@ -102,6 +104,18 @@ layout: section
 ---
 
 <h1 style="color: white">Meta Tag</h1>
+
+---
+layout: section
+---
+
+<h2 style="color: white">Over Hangman</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/oh-og.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -226,6 +240,12 @@ layout: section
 <video controls style="width: 85%; margin: 0 auto;">
   <source src="videos/twitter-card-validator.mp4" type="video/mp4">
 </video>
+
+---
+layout: center
+---
+
+<h1 style="color: white">You can learn more about Open Graph <a href="https://developers.google.com/web/fundamentals/discovery/social-discovery">here</a></h1>
 
 ---
 layout: section
@@ -412,9 +432,6 @@ layout: center
   <h2 style="color: white">Accessibility</h2>
   <br>
 
-  <h2 style="color: white">Robots.txt</h2>
-  <br>
-
   <h2 style="color: white">Google Search Console</h2>
 </div>
 <div class="text-center">
@@ -429,8 +446,6 @@ layout: center
 
   <h2 style="color: white">AMP</h2>
   <br>
-
-  <h2 style="color: white">Linking</h2>
 </div>
 </div>
 
