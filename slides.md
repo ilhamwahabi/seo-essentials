@@ -125,7 +125,7 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">They are divided by:</h1>
+<h1 style="color: white">They can divided by:</h1>
 
 <br>
 <br>
@@ -238,6 +238,59 @@ layout: section
 ---
 
 <h1 style="color: white">Structured Data</h1>
+
+---
+layout: center
+---
+
+<h1 style="color: white; font-size: 2.75rem;">Have you wondered how ...</h1>
+
+---
+layout:section
+---
+
+<img src="images/nasa-search.png">
+
+---
+layout: center
+---
+
+<img src="images/jakarta-concert.png">
+
+---
+layout: center
+---
+
+<img src="images/apple-search.png">
+
+---
+layout: center
+---
+
+<h1 class="text-center" style="color: white; font-size: 2.5rem;">Help Google understand our content</h1>
+
+<h2 class="text-center py-8" style="color: white">and</h2>
+
+<h1 class="text-center" style="color: white; font-size: 2.5rem;">Display richer features in search results</h1>
+
+---
+layout: section
+---
+
+<h2 style="color: white">Example: Apple</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/apple-sd.mp4" type="video/mp4">
+</video>
+
+
+---
+layout: center
+---
+
+<h1 style="color: white">You can learn more <a href="https://developers.google.com/search/docs/advanced/structured-data/search-gallery">here</a></h1>
 
 ---
 layout: section
