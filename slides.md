@@ -116,7 +116,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/oh-og.mp4" type="video/mp4">
+  <source src="/videos/oh-og.mp4" type="video/mp4">
 </video>
 
 ---
@@ -192,7 +192,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/facebook-sharing-debugger.mp4" type="video/mp4">
+  <source src="/videos/facebook-sharing-debugger.mp4" type="video/mp4">
 </video>
 
 ---
@@ -206,7 +206,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/linkedin-post-inspector.mp4" type="video/mp4">
+  <source src="/videos/linkedin-post-inspector.mp4" type="video/mp4">
 </video>
 
 ---
@@ -243,7 +243,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/twitter-card-validator.mp4" type="video/mp4">
+  <source src="/videos/twitter-card-validator.mp4" type="video/mp4">
 </video>
 
 ---
@@ -280,19 +280,19 @@ layout: center
 layout:section
 ---
 
-<img src="images/nasa-search.png">
+<img src="/images/nasa-search.png">
 
 ---
 layout: center
 ---
 
-<img src="images/jakarta-concert.png">
+<img src="/images/jakarta-concert.png">
 
 ---
 layout: center
 ---
 
-<img src="images/apple-search.png">
+<img src="/images/apple-search.png">
 
 ---
 layout: center
@@ -313,7 +313,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/apple-sd.mp4" type="video/mp4">
+  <source src="/videos/apple-sd.mp4" type="video/mp4">
 </video>
 
 
@@ -346,7 +346,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/kent-sitemap.mp4" type="video/mp4">
+  <source src="/videos/kent-sitemap.mp4" type="video/mp4">
 </video>
 
 ---
@@ -387,7 +387,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/react-robots.mp4" type="video/mp4">
+  <source src="/videos/react-robots.mp4" type="video/mp4">
 </video>
 
 ---
@@ -413,7 +413,7 @@ layout: section
 <br>
 
 <video controls style="width: 85%; margin: 0 auto;">
-  <source src="videos/lighthouse.mp4" type="video/mp4">
+  <source src="/videos/lighthouse.mp4" type="video/mp4">
 </video>
 
 ---
