@@ -231,7 +231,13 @@ layout: section
 layout: section
 ---
 
-<h1 style="color: white">Sitemap</h1>
+<h1 style="color: white">Now we know how to display our web in social platform</h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">How about in the search result?</h1>
 
 ---
 layout: section
@@ -290,7 +296,39 @@ layout: section
 layout: center
 ---
 
-<h1 style="color: white">You can learn more <a href="https://developers.google.com/search/docs/advanced/structured-data/search-gallery">here</a></h1>
+<h1 style="color: white">You can learn more about Structured Data <a href="https://developers.google.com/search/docs/advanced/structured-data/search-gallery">here</a></h1>
+
+---
+layout: section
+---
+
+<h1 style="color: white">Sitemap</h1>
+
+---
+layout: center
+---
+
+<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">Provide information about contents in our site and relations between them.</h1>
+
+<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">Help search engine crawl effectively and get more information.</h1>
+
+---
+layout: section
+---
+
+<h2 style="color: white">Example: Kent C. Dodds</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/kent-sitemap.mp4" type="video/mp4">
+</video>
+
+---
+layout: center
+---
+
+<h1 style="color: white">You can learn more about Sitemap <a href="https://developers.google.com/search/docs/advanced/sitemaps/overview">here</a></h1>
 
 ---
 layout: section
