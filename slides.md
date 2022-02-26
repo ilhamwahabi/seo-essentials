@@ -186,7 +186,7 @@ layout: section
 ---
 
 <h2 style="color: white">
-  <a href="https://www.linkedin.com/post-inspector" target="_blank">Facebook Sharing Debugger</a>
+  <a href="https://developers.facebook.com/tools/debug" target="_blank">Facebook Sharing Debugger</a>
 </h2>
 
 <br>
@@ -219,7 +219,7 @@ layout: section
 
 <h1 style="color: white">Twitter</h1>
 
-- For Twitter
+<h1 style="color: white; font-size: 1.25rem; line-height: 2.25rem;">- For Twitter</h1>
 
 <br>
 
