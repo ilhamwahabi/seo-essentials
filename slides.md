@@ -334,6 +334,47 @@ layout: center
 layout: section
 ---
 
+<h1 style="color: white">Robots</h1>
+
+---
+layout: center
+---
+
+<h1 style="color: white; font-size: 2rem; line-height: 2.5rem;">- Tell search engine which page they can crawl and can't</h1>
+<h1 style="color: white; font-size: 2rem; line-height: 2.5rem;">- Located in the root of the website</h1>
+
+```html
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.example.com/sitemap.xml
+```
+
+---
+layout: section
+---
+
+<h2 style="color: white">Example: Reactjs.org</h2>
+
+<br>
+
+<video controls style="width: 85%; margin: 0 auto;">
+  <source src="videos/react-robots.mp4" type="video/mp4">
+</video>
+
+---
+layout: center
+---
+
+<h1 style="color: white">You can learn more about Robots <a href="https://developers.google.com/search/docs/advanced/robots/intro">here</a></h1>
+
+---
+layout: section
+---
+
 <h1 style="color: white">Audit</h1>
 
 ---
