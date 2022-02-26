@@ -109,7 +109,9 @@ layout: section
 layout: section
 ---
 
-<h2 style="color: white">Over Hangman</h2>
+<h2 style="color: white">
+  <a href="https://github.com/iwgx/over-hangman/blob/master/public/index.html" target="_blank">Over Hangman</a>
+</h2>
 
 <br>
 
@@ -121,9 +123,10 @@ layout: section
 
 <h1 style="color: white">Meta Tag</h1>
 
-- Tell search engine about our website
+<br>
 
-- Make our content stands out
+<h1 style="color: white; font-size: 1.25rem; line-height: 2.25rem;">- Tell search engine about our website</h1>
+<h1 style="color: white; font-size: 1.25rem; line-height: 2.25rem;">- Make our content stands out</h1>
 
 ```html
 <head>
@@ -161,7 +164,9 @@ layout: section
 
 <h1 style="color: white">Open Graph</h1>
 
-- For Google, Facebook, LinkedIn, Slack, Discord, etc
+<br>
+
+<h1 style="color: white; font-size: 1.25rem; line-height: 2.25rem;">- For Google, Facebook, LinkedIn, Slack, Discord, etc</h1>
 
 <br>
 
@@ -245,7 +250,7 @@ layout: section
 layout: center
 ---
 
-<h1 style="color: white">You can learn more about Open Graph <a href="https://developers.google.com/web/fundamentals/discovery/social-discovery">here</a></h1>
+<h1 style="color: white">You can learn more about Meta Tag <a href="https://developers.google.com/web/fundamentals/discovery/social-discovery">here</a></h1>
 
 ---
 layout: section
