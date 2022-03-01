@@ -314,7 +314,7 @@ layout: center
 layout: section
 ---
 
-<h2 style="color: white">Example: Apple</h2>
+<h2 style="color: white">Example: <a href="https://www.apple.com">Apple</a></h2>
 
 <br>
 
@@ -347,7 +347,7 @@ layout: center
 layout: section
 ---
 
-<h2 style="color: white">Example: Kent C. Dodds</h2>
+<h2 style="color: white">Example: <a href="https://kentcdodds.com">Kent C. Dodds</a></h2>
 
 <br>
 
@@ -388,7 +388,7 @@ Sitemap: http://www.example.com/sitemap.xml
 layout: section
 ---
 
-<h2 style="color: white">Example: Reactjs.org</h2>
+<h2 style="color: white">Example: <a href="https://reactjs.org">Reactjs.org</a></h2>
 
 <br>
 
