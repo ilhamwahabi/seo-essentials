@@ -298,11 +298,17 @@ layout: center
 layout: center
 ---
 
-<h1 class="text-center" style="color: white; font-size: 2.5rem;">Help Google understand our content</h1>
+<h1 style="color: white">and <a href="https://developers.google.com/search/docs/advanced/structured-data/search-gallery">many more ...</a></h1>
+
+---
+layout: center
+---
+
+<h1 class="text-center" style="color: white; font-size: 2.5rem;">Display richer features in search results</h1>
 
 <h2 class="text-center py-8" style="color: white">and</h2>
 
-<h1 class="text-center" style="color: white; font-size: 2.5rem;">Display richer features in search results</h1>
+<h1 class="text-center" style="color: white; font-size: 2.5rem;">Help Google understand our content</h1>
 
 ---
 layout: section
@@ -333,9 +339,9 @@ layout: section
 layout: center
 ---
 
-<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">Provide information about contents in our site and relations between them.</h1>
+<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">- Provide information about contents in our site and relations between them.</h1>
 
-<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">Help search engine crawl effectively and get more information.</h1>
+<h1 style="color: white; font-size: 2.5rem; line-height: 4rem;">- Help search engine crawl effectively and get more information.</h1>
 
 ---
 layout: section
